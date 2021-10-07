@@ -1,0 +1,13 @@
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.csproj.AssemblyReference.cache
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar_API.FrmCotacaoDolar.resources
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar_API.Properties.Resources.resources
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.csproj.GenerateResource.cache
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.csproj.CoreCompileInputs.cache
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\bin\Debug\CotaçãoDolar-API.exe.config
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\bin\Debug\CotaçãoDolar-API.exe
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\bin\Debug\CotaçãoDolar-API.pdb
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.exe
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.pdb
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\CotacaoDolar-APi\CotaçãoDolar-API\CotaçãoDolar-API\obj\Debug\CotaçãoDolar-API.csproj.CopyComplete
